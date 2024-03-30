@@ -3,7 +3,7 @@
 ### Proffesional Calculator using Python's library Tkinter 
 
 <p align="center">
-   <img width="240" height="340"src="imgs/sci_calc.png">
+   <img width="240" height="340"src="sci_calc.png">
 </p>
 
 ## Author
